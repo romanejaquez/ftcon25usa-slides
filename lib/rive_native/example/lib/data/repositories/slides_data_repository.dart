@@ -167,7 +167,7 @@ class SlidesDataRepository {
         asset: 'rive_slides',
         stateMachineName: 'slide19',
         color:  Colors.white,
-        content: '''Sample Text'''
+        content: ''''''
       ),
     ];
   }
