@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/romanjaquez/Documents/Presentations/rive_slides/lib/rive_native/android/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/romanjaquez/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/romanjaquez/Documents/Presentations/rive_slides/lib/rive_native/android/.cxx/RelWithDebInfo/26m583q4/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/romanjaquez/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/romanjaquez/Documents/Presentations/rive_slides/lib/rive_native/android/.cxx/RelWithDebInfo/26m583q4/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

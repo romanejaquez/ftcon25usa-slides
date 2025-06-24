@@ -1,0 +1,1 @@
+/Users/romanjaquez/Documents/Presentations/rive_slides/lib/rive_native/example/build/rive_native/intermediates/cxx/RelWithDebInfo/26m583q4/obj/x86_64

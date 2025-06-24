@@ -1,0 +1,2 @@
+/Users/romanjaquez/Documents/Presentations/rive_slides/lib/rive_native/android/.cxx/RelWithDebInfo/26m583q4/x86_64/CMakeFiles/edit_cache.dir
+/Users/romanjaquez/Documents/Presentations/rive_slides/lib/rive_native/android/.cxx/RelWithDebInfo/26m583q4/x86_64/CMakeFiles/rebuild_cache.dir

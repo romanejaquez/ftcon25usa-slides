@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "231691677274",
+    "project_id": "rive-slides",
+    "storage_bucket": "rive-slides.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231691677274:android:e5c7c55e0b3eb58ac5b263",
+        "android_client_info": {
+          "package_name": "com.example.example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNCQwjBX4eG_p1NinvkxSSOjrPP4KvIX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
